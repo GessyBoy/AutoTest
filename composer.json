@@ -1,0 +1,17 @@
+{
+    "name": "gessyboy/composertest",
+    "description": "A test package for learning Composer.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GessyBoy"
+        }
+    ],
+    "require": {}
+}
